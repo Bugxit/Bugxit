@@ -6,7 +6,7 @@ Do you like eating graphic cards?
 
 ## ✨ What i'm learning / using ✨
 
-![.py](/icons/python)
+![.py](/icons/python.svg)
 
 <!--
 **Bugxit/Bugxit** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
