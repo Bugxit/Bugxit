@@ -4,14 +4,11 @@ Do you like eating graphic cards?
 
 ## 🔭 I’m currently working on
 
-## ✨ What i'm learning / using ✨
+## ✨ What i'm using ✨
 <div>
   <img src="/icons/python.svg" width=40 title="py">
-  
+  <img src="/icons/c.svg" width=40 title="c">
 </div>
-
-<br />
-<br />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugxit&langs_count=8&theme=radical">
 
