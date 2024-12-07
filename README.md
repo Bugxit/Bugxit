@@ -13,7 +13,7 @@ Do you like eating graphic cards?
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markuslw&langs_count=8&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugxit&langs_count=8&theme=radical">
 
 <!--
 **Bugxit/Bugxit** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
