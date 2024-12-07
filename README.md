@@ -7,7 +7,13 @@ Do you like eating graphic cards?
 ## ✨ What i'm learning / using ✨
 <div>
   <img src="/icons/python.svg" width=40 title="py">
+  
 </ div>
+
+<br />
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markuslw&langs_count=8&theme=radical">
 
 <!--
 **Bugxit/Bugxit** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
