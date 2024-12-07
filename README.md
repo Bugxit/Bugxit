@@ -8,7 +8,7 @@ Do you like eating graphic cards?
 <div>
   <img src="/icons/python.svg" width=40 title="py">
   
-</ div>
+</div>
 
 <br />
 <br />
