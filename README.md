@@ -9,11 +9,17 @@ Do you like eating graphic cards?
   <img src="/icons/python.svg" width=40 title="py">
   <img src="/icons/c.svg" width=40 title="c">
   <img src="/icons/x86.svg" width=40 title="x86">
-  <img src="/icons/go.svg" width=40 title="go">
-  <img src="/icons/rust.svg" width=40 title="rs">
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugxit&langs_count=8&theme=dark">
+## What i'm learning
+<div>
+  <img src="/icons/go.svg" width=40 title="go">
+  <img src="/icons/rust.svg" width=40 title="rs">
+  <img src="/icons/armv8.svg" witdh=40 title="ARMv8">
+  <img src="/icons/cpp.svg" width=40 title="cpp">
+</div>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugxit&langs_count=8&theme=dark"> -->
 
 <!--
 **Bugxit/Bugxit** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
