@@ -5,8 +5,9 @@ Do you like eating graphic cards?
 ## 🔭 I’m currently working on
 
 ## ✨ What i'm learning / using ✨
-
-![.py](/icons/python.svg)
+<div>
+  <img src="/icons/python.svg" width=40 title="py">
+</ div>
 
 <!--
 **Bugxit/Bugxit** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
