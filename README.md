@@ -6,7 +6,7 @@ Do you like eating graphic cards?
 
 ## ✨ What i'm using ✨
 <div>
-  <img src="/icons/python.svg" width=40 title="py">
+  <a href="https://www.python.org/"> <img src="/icons/python.svg" width=40 title="py"> <a/>
   <img src="/icons/c.svg" width=40 title="c">
   <img src="/icons/x86.svg" width=40 title="x86">
 </div>
@@ -17,6 +17,11 @@ Do you like eating graphic cards?
   <img src="/icons/rust.svg" width=40 title="rs">
   <img src="/icons/armv8.svg" witdh=40 title="ARMv8">
   <img src="/icons/cpp.svg" width=40 title="cpp">
+</div>
+
+## My organisations 
+<div>
+  <img src="">
 </div>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugxit&langs_count=8&theme=dark"> -->
