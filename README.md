@@ -9,7 +9,9 @@ Do you like eating graphic cards?
   <a href="https://www.python.org/"> 
     <img src="/icons/python.svg" width=40 title="py">
   <a/>
-  <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" target="blank"><img src="/icons/c.svg" width=40 title="c"></a>
+  <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html">
+    <img src="/icons/c.svg" width=40 title="c">
+  </a>
   <img src="/icons/x86.svg" width=40 title="x86">
 </div>
 
@@ -21,9 +23,11 @@ Do you like eating graphic cards?
   <img src="/icons/cpp.svg" width=40 title="cpp">
 </div>
 
-## My organisations 
+## My organizations 
 <div>
-  <img src="">
+  <a href="https://github.com/PolyxUtils">
+    <img src="">
+  <a/>
 </div>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugxit&langs_count=8&theme=dark"> -->
