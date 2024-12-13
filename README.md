@@ -6,7 +6,9 @@ Do you like eating graphic cards?
 
 ## ✨ What i'm using ✨
 <div>
-  <a href="https://www.python.org/" target="_blank"> <img src="/icons/python.svg" width=40 title="py"><a/>
+  <a href="https://www.python.org/"> 
+    <img src="/icons/python.svg" width=40 title="py">
+  <a/>
   <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" target="blank"><img src="/icons/c.svg" width=40 title="c"></a>
   <img src="/icons/x86.svg" width=40 title="x86">
 </div>
