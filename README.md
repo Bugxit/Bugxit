@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there 👋
 
 Do you like eating graphic cards?
 
