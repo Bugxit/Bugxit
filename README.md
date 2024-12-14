@@ -19,10 +19,14 @@ Do you like eating graphic cards?
 
 ## What i'm learning
 <div>
-  <img src="/icons/go.svg" width=40 title="go">
-  <img src="/icons/rust.svg" width=40 title="rs">
-  <img src="/icons/armv8.svg" witdh=40 title="ARMv8">
-  <img src="/icons/cpp.svg" width=40 title="cpp">
+  <a href="https://go.dev">
+    <img src="/icons/go.svg" width=40 title="go"><a/>
+  <a href="https://www.rust-lang.org">
+    <img src="/icons/rust.svg" width=40 title="rs"><a/>
+  <a href="https://developer.arm.com/documentation/ddi0602/2024-09/Base-Instructions">
+    <img src="/icons/armv8.svg" witdh=40 title="ARMv8"><a/>
+  <a href="https://isocpp.org">
+    <img src="/icons/cpp.svg" width=40 title="cpp"><a/>
 </div>
 
 ## My organizations 
