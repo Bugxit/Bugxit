@@ -10,8 +10,7 @@ Do you like eating graphic cards?
     <img src="/icons/python.svg" width=40 title="py">
   <a/>
   <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html">
-    <img src="/icons/c.svg" width=40 title="c">
-  </a>
+    <img src="/icons/c.svg" width=40 title="c"></a>
   <img src="/icons/x86.svg" width=40 title="x86">
 </div>
 
@@ -26,8 +25,7 @@ Do you like eating graphic cards?
 ## My organizations 
 <div>
   <a href="https://github.com/PolyxUtils">
-    <img src="https://avatars.githubusercontent.com/u/188699707?s=200&v=4" width=40 title="PolyxUtils">
-  <a/>
+    <img src="https://avatars.githubusercontent.com/u/188699707?s=200&v=4" width=40 title="PolyxUtils"><a/>
 </div>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugxit&langs_count=8&theme=dark"> -->
