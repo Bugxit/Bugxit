@@ -2,7 +2,11 @@
 
 Do you like eating graphic cards?
 
-## 🔭 I’m currently working on
+## 🔭 I’m currently working on 🔭
+- [My own programming language](https://github.com/PolyxUtils/PolyxLang)
+- [An universal assembly language](https://github.com/PolyxUtils/PolyxASM)
+- [A 3D renderer using python](https://github.com/PolyxUtils/Polyx3D)
+- [This](https://github.com/Bugxit)
 
 ## ✨ What i'm using ✨
 <div>
