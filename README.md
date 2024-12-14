@@ -2,12 +2,6 @@
 
 Do you like eating graphic cards?
 
-## 🔭 I’m currently working on 🔭
-- [My own programming language](https://github.com/PolyxUtils/PolyxLang)
-- [An universal assembly language](https://github.com/PolyxUtils/PolyxASM)
-- [A 3D renderer using python](https://github.com/PolyxUtils/Polyx3D)
-- [This](https://github.com/Bugxit)
-
 ## ✨ What i'm using ✨
 <div>
   <a href="https://www.python.org/"> 
@@ -17,7 +11,7 @@ Do you like eating graphic cards?
   <img src="/icons/x86.svg" width=40 title="x86">
 </div>
 
-## What i'm learning
+## 📘 What i'm learning 📘
 <div>
   <a href="https://go.dev">
     <img src="/icons/go.svg" width=40 title="go"><a/>
